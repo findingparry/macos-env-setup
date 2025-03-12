@@ -26,10 +26,9 @@ This Bash script automates the setup of a macOS environment. It installs Xcode C
 1.  **Clone the repository:**
 
     ```bash
-    git clone [https://github.com/YOUR_GITHUB_USERNAME/macos-env-setup.git](https://github.com/YOUR_GITHUB_USERNAME/macos-env-setup.git)
+    git clone [https://github.com/findingparry/macos-env-setup.git](https://github.com/findingparry/macos-env-setup.git)
     cd macos-env-setup
     ```
-    (Replace `YOUR_GITHUB_USERNAME` with your actual GitHub username.)
 
 2.  **Make the script executable:**
 
