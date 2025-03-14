@@ -70,6 +70,7 @@ declare -a formulae=(
 
 # List of casks (GUI applications) to install, in alphabetical order
 declare -a casks=(
+  appcleaner
   boop
   docker
   ghostty
