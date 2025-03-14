@@ -62,31 +62,22 @@ You can easily customize the script to install your preferred tools and applicat
 # List of formulae (command-line tools) to install, in alphabetical order
 declare -a formulae=(
   git
+  hashicorp/tap/terraform
   python
-  terraform
+  ruby
   # Add more formulae here
 )
 
 # List of casks (GUI applications) to install, in alphabetical order
 declare -a casks=(
-  appcleaner
   boop
-  brave-browser
   docker
-  dockdoor
   ghostty
-  gifox
-  iina
   keka
   keepingyouawake
-  logi-options+
   monitorcontrol
-  notion
-  notion-calendar
-  onyx
   postman
   rectangle
-  spotify
   stats
   utm
   visual-studio-code
