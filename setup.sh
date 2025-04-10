@@ -6,23 +6,34 @@ declare -a formulae=(
   git
   hashicorp/tap/terraform
   python
-  ruby
 )
 
 # List of casks (GUI applications) to install, in alphabetical order
 declare -a casks=(
-  appcleaner
+  arc
+  betterdisplay
   boop
   docker
+  expressvpn
+  firefox
+  gifox
   ghostty
+  grammarly-desktop
+  iina
+  iterm2
+  jordanbaird-ice
   keka
   keepingyouawake
-  monitorcontrol
+  pearcleaner
   postman
+  powershell
   rectangle
   stats
+  sublime-text
   utm
   visual-studio-code
+  warp
+  zed
 )
 
 # --- Global Variables ---
